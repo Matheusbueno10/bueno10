@@ -2,6 +2,7 @@
 #include <DallasTemperature.h>
 #include <DS1307.h> //RTC
 
+//Teste OK 27/04/21
 /********************************************************************/
 //O fio de dados est� conectado ao pino 2 no Arduino
 
